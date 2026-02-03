@@ -2,7 +2,6 @@ import { ContactForm } from "@/components/ContactForm";
 import BackgroundScene from "@/components/BackgroundScene";
 import HeroScene from "@/components/HeroScene";
 import InteractiveLayer from "@/components/InteractiveLayer";
-import MobileNav from "@/components/MobileNav";
 import Reveal from "@/components/Reveal";
 import SectionHashSync from "@/components/SectionHashSync";
 import TiltCard from "@/components/TiltCard";
@@ -115,12 +114,9 @@ export default function Home() {
             </a>
           ))}
         </nav>
-        <div className="flex items-center gap-2">
-          <MobileNav />
-          <a className="btn btn-secondary resume-cta text-sm" href="/resume">
-            Resume
-          </a>
-        </div>
+        <a className="btn btn-secondary resume-cta text-sm" href="/resume">
+          Resume
+        </a>
       </header>
 
       <main className="content-shell mx-auto flex w-full max-w-6xl flex-col gap-20 px-6 pb-24 md:px-10">
