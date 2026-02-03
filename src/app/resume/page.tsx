@@ -9,7 +9,7 @@ export default function ResumePage() {
           <a className="btn btn-primary text-sm" href="/ShivamKumarPandey.pdf" target="_blank" rel="noreferrer">
             Open PDF
           </a>
-          <a className="btn btn-secondary text-sm" href="/ShivamKumarPandey.pdf" download>
+          <a className="btn btn-secondary min-w-[190px] px-6 text-sm" href="/ShivamKumarPandey.pdf" download>
             Download Resume
           </a>
         </div>
