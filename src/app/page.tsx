@@ -3,6 +3,7 @@ import BackgroundScene from "@/components/BackgroundScene";
 import HeroScene from "@/components/HeroScene";
 import InteractiveLayer from "@/components/InteractiveLayer";
 import Reveal from "@/components/Reveal";
+import SectionHashSync from "@/components/SectionHashSync";
 import TiltCard from "@/components/TiltCard";
 import Image from "next/image";
 
@@ -90,6 +91,7 @@ export default function Home() {
     <div className="relative min-h-screen overflow-hidden">
       <BackgroundScene />
       <InteractiveLayer />
+      <SectionHashSync />
       <div className="spotlight spotlight-left" />
       <div className="spotlight spotlight-right" />
       <div className="noise-overlay" />
