@@ -124,7 +124,7 @@ export default function Home() {
           <div className="space-y-6">
             <p className="eyebrow">Software Developer | AI/ML Enthusiast</p>
             <h1 className="hero-title font-heading text-5xl leading-[0.95] md:text-7xl">
-              Building intelligent 3D web experiences with code, data, and creativity.
+              Building intelligent products with code, data, and creativity.
             </h1>
             <p className="max-w-xl text-base text-[var(--text-muted)] md:text-lg">
               Hi, I am Shivam Kumar Pandey - a software developer passionate about AI/ML, computer vision, and
