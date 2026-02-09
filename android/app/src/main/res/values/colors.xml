@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="brand_primary">#2DD4BF</color>
+    <color name="brand_secondary">#38BDF8</color>
+    <color name="bg_start">#FFFFFF</color>
+    <color name="bg_end">#FFFFFF</color>
+    <color name="surface_card">#F1F5F9</color>
+    <color name="text_main">#0F172A</color>
+    <color name="text_muted">#475569</color>
+    <color name="outline_soft">#CBD5E1</color>
+    <color name="social_icon_bg">#E2E8F0</color>
+    <color name="drawer_bg">#FFFFFF</color>
+    <color name="bg_page">#FFFFFF</color>
+</resources>

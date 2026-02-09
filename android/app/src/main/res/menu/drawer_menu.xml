@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/nav_home"
+        android:icon="@drawable/ic_home"
+        android:title="@string/section_home" />
+    <item
+        android:id="@+id/nav_about"
+        android:icon="@drawable/ic_person"
+        android:title="@string/section_about" />
+    <item
+        android:id="@+id/nav_experience"
+        android:icon="@drawable/ic_experience"
+        android:title="@string/section_experience" />
+    <item
+        android:id="@+id/nav_projects"
+        android:icon="@drawable/ic_project"
+        android:title="@string/section_projects" />
+    <item
+        android:id="@+id/nav_research"
+        android:icon="@drawable/ic_contact"
+        android:title="@string/section_research" />
+    <item
+        android:id="@+id/nav_resume"
+        android:icon="@drawable/ic_project"
+        android:title="@string/section_resume" />
+    <item
+        android:id="@+id/nav_contact"
+        android:icon="@drawable/ic_mail"
+        android:title="@string/section_contact" />
+</menu>
